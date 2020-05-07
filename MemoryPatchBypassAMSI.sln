@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryPatchBypassAMSI", "MemoryPatchBypassAMSI\MemoryPatchBypassAMSI.vcxproj", "{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Debug|x64.Build.0 = Debug|x64
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Debug|x86.Build.0 = Debug|Win32
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Release|x64.ActiveCfg = Release|x64
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Release|x64.Build.0 = Release|x64
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Release|x86.ActiveCfg = Release|Win32
+		{574B0E56-A06A-4E03-9A64-DE1FFE9E2FB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6895A1FD-AE22-4BA1-BAE5-148A27E5A2DB}
+	EndGlobalSection
+EndGlobal
